@@ -1,7 +1,7 @@
-- 👋 Hi, I’m RaviTejaKundrapu
-- 
-- 👀 I’m Currently Working in Web Development Projects
-- 
+👋 Hi, I’m RaviTejaKundrapu
+
+👀 I’m Currently Working in Web Development Projects
+  
 💬 Ask me about JavaScript, node.js, express.js, react.js
 
 ⚡Languages and Tools:
