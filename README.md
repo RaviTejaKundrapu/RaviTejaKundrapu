@@ -1,4 +1,4 @@
-👋 Hi, I’m RaviTejaKundrapu
+👋 Hi, I’m Ravi Teja Kundrapu
 
 👀 I’m Currently Working in Web Development Projects
   
