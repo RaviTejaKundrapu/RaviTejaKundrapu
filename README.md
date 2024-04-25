@@ -4,7 +4,6 @@
   
 💬 Ask me about JavaScript, node.js, express.js, react.js
 
-
 ⚡Languages and Tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,sqlite,git,linux,nodejs,express,react,azure,py)](https://skills.thijs.gg) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,sqlite,git,linux,nodejs,express,react,azure,py)](https://skillicons.dev)
