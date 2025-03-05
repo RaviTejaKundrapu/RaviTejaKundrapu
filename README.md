@@ -6,4 +6,4 @@
 
 ⚡Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,sqlite,git,linux,nodejs,express,react,azure,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,sqlite,git,linux,nodejs,express,react,azure,py,oracle)](https://skillicons.dev)
