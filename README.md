@@ -54,11 +54,11 @@ const raviTeja = {
 
 © 2025 **Ravi Teja Kundrapu**. All rights reserved.
 
-This repository is hosted publicly **solely for my own convenience of access on GitHub**.
+This repository's is hosted publicly **solely for my own convenience of access on GitHub**.
 
 ❌ You are **NOT allowed** to **use, copy, modify, or share** any part of this code or its contents for any purpose.
 
-### 📚 About This Project
+### 📚 About This Project's
 
 This represents **my personal learning, effort, and practice**, developed during my training at **NxtWave**.  
 
