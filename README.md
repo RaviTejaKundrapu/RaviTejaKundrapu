@@ -45,3 +45,30 @@ const raviTeja = {
   <br>
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
+
+<div>
+
+---
+
+## ⚠️ Copyright & Strict Access Notice ⚠️
+
+© 2025 **Ravi Teja Kundrapu**. All rights reserved.
+
+This repository is hosted publicly **solely for my own convenience of access on GitHub**.
+
+❌ You are **NOT allowed** to **use, copy, modify, or share** any part of this code or its contents for any purpose.
+
+### 📚 About This Project
+
+This represents **my personal learning, effort, and practice**, developed during my training at **NxtWave**.  
+
+I have invested significant time and hard work to prepare and structure these references **for my own use only**.
+
+It may also include URLs or hosted content related to the institute.
+
+**If you are not Ravi Teja Kundrapu, please close this repository immediately.**
+
+Unauthorized access or use may be considered a violation of intellectual property rights and is strongly discouraged.
+
+✉️ For inquiries, please contact:  **Ravi Teja Kundrapu**
+</div>
